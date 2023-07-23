@@ -1,0 +1,1 @@
+E:\Documents\VisualStudio\Windows-driver-samples\input\moufiltr\x64\Debug\moufiltr.sys
